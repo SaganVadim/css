@@ -47,7 +47,7 @@ a:active {
     margin-bottom: 20px;
 }
 
-@media (max-width: 1792px) {
+@media (max-width: 1000px) {
     .info {
         text-align: center;
         display: block;
